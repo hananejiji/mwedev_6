@@ -1,5 +1,5 @@
 .DS_Store
 
 node_modules/
-
-package-lock.json # to backup
+# to backup
+package-lock.json 
